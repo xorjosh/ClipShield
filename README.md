@@ -120,4 +120,12 @@ If you find new lure text, bypasses, or LOLBAS tradecraft:
 
 Project: [https://github.com/xorjosh/ClipShield](https://github.com/xorjosh/ClipShield)
 
+---
+
+## Showcase
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/985c5491-3c79-4dd1-976d-17f58938a4ef" />
+
+
 Built by **Josh Allman**: [https://joshallman.co.uk](https://joshallman.co.uk)
+
